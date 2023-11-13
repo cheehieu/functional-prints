@@ -16,7 +16,7 @@ A replacement support foot for an old Alesis electronic drum kit.
 
 
 ## Suitcase Handle
-
+A replacement bracket for a Dejuno suitcase handle.
 
 ## Wahl Hair Clipper Organizer
 
